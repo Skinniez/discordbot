@@ -8,11 +8,24 @@ Access to Data is only permitted to Bot's developers, and only in the scope requ
 
 ## Storage of Data
 
-Data is stored in a MongoDB database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
+We do not share your personal information with third parties except as necessary to provide the bot's services, comply with legal requirements, or protect our rights or property. Specifically, we may share your information with:
+
+Third-party service providers who assist us in operating the bot or providing the bot's services.
+Law enforcement agencies, government agencies, or other third parties as required by law or in response to a legal request.
+Our attorneys, accountants, or other professional advisors as necessary to protect our legal rights or property.
+We retain your information only for as long as necessary to provide the bot's services or as required by law. We may also retain your information for a longer period to comply with legal or regulatory obligations, resolve disputes, or enforce our agreements.
 
 ## User Rights
 
 At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Discord Server]https://discord.gg/hPtzh6n8nW. You have the right to request the removal of relevant Data.
+
+## How We Use Your Information
+We use the information we collect to provide the image resizing functionality to you and improve our services. Specifically, we use your information to:
+
+Process image resizing requests and return the resized images to you.
+Analyze usage patterns and trends to improve the bot's performance and functionality.
+Debug issues and troubleshoot errors.
+We do not use your information for any other purpose without your consent.
 
 ## Underage Users
 
